@@ -57,4 +57,25 @@ Vous venez de créer votre compte github. Vous voulez maintenant créer votre pr
 
 - Mais comment fai... **"PUSH"** !!! en haut, au millieu.
 
-- Et voila ! maintenant, on retourne sur Github
+- Et voila ! maintenant, on retourne sur Github.
+
+## Page github
+
+- Dans l'onglet **"Settings"**, scrollez vers le bas jusqu'à **"GitHub Pages"**.
+selectionnez un thème, puis cliquez sur le lien de votre site. ( **"Your site is published at https://..."**)
+
+- et voilà ! partagez le lien avec qui vous voulez.
+
+# Bonus
+
+Vous en avez marre de bosser tout seul ? voici donc quelques autres fonctions !
+
+## Ajoutez un collabo !
+
+- Rien de plus simple ! Sur github: onglet **"Settings"** puis **Collaborators**. il ne vous reste qu'à taper le pseudonyme de ~~votre esclave~~ / main-d'oeuvre !
+
+## La commande Pull !
+
+- si votre serviteur récemment ajouté a bien travaillé, vous devriez voir sur Gitkraken ses modifications. Il vous suffit d'appuyer sur **"Pull"** en haut  pour récupérer le travail que lui aura *"Push"* au préalable !
+
+Voilà tout pour maintenant ! a vous de jouer !
